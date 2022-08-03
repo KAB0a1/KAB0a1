@@ -3,6 +3,28 @@ Sources for the forks I have:
 
 https://github.com/orgs/adafruit/repositories?q=&type=all&language=&sort=name
 https://github.com/orgs/arduino/repositories?q=&type=all&language=&sort=name
+https://github.com/google/yapf
+https://github.com/googleapis/google-api-nodejs-client
+https://github.com/tensorlayer/TensorLayer
+https://github.com/tycrek/degoogle                  A huge list of alternatives to Google products. Privacy tips, tricks, and links.
+https://github.com/Tapadoo/Alerter                  An Android Alerting Library
+https://github.com/google/closure-library           Google's common JavaScript library
+https://github.com/google/gts                       TypeScript style guide, formatter, and linter.
+https://github.com/fontsource/fontsource            Self-host Open Source fonts in neatly bundled NPM packages.
+https://github.com/simon-weber/gmusicapi            An unofficial client library for Google Music.
+https://github.com/Canner/cannercms                 [NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+https://github.com/federicoiosue/Omni-Notes         Open source note-taking application for Android
+https://github.com/lipp/login-with                  Stateless login-with microservice for OAuth
+https://github.com/harababurel/gcsf                 a FUSE file system based on Google Drive
+https://github.com/googlesamples/mlkit              A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+https://github.com/marcobiedermann/search-engine-optimization       A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
+https://github.com/theoephraim/node-google-spreadsheet              Google Sheets API (v4) wrapper for Node.js
+https://github.com/sczhengyabin/Image-Downloader          Download images from Google, Bing, Baidu.
+https://github.com/madawei2699/awesome-seo            Google SEO Research and Web Traffic Monetization
+https://github.com/gilesknap/gphotos-sync           Google Photos and Albums backup with Google Photos Library API
+https://github.com/paulmillr/encrypted-dns          Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
+https://github.com/phw198/OutlookGoogleCalendarSync       Sync your Outlook and Google calendars
+
 
 
 
@@ -74,6 +96,10 @@ https://github.com/collections/hacking-minecraft
 https://github.com/collections/learn-to-code
 https://github.com/collections/javascript-game-engines
 https://github.com/collections/open-source-organizations
-
+https://github.com/orgs/googleapis/repositories
+https://github.com/topics/rust
+https://github.com/rust-lang
+https://github.com/googlesamples
+https://github.com/collections/productivity-tools
 
 
